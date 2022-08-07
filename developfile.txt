@@ -1,2 +1,3 @@
 this is file in develop.
 checking trigger
+status of trigger
